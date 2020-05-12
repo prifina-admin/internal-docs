@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.svg
-heroText: Liberty. Equality. Data.
+heroText: Prifina for Developers
 tagline: Prifina develops new solutions to manage personal data, that offer a better customer experience and empower individuals.
 actionText: Get started
 actionLink: /quickstart/
