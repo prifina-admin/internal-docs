@@ -16,6 +16,7 @@ module.exports = {
 		sidebar: [
 			'/introduction/',
 			'/quickstart/',
+			'/glossary/',
 			{
 				title: 'User data',
 				path: '/userdata/',
