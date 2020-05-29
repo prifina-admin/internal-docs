@@ -1,0 +1,5 @@
+# Aggregated Data API
+## Introduction
+The Aggregated Data API is a GraphQL API providing extensive access to Prifina user data. It is only accessible to Prifina core functions, [local data apps](../../Introduction/#local-data-apps), and [data widgets](../../Introduction/#data-widgets). In addition to querying to retrieve user data, it provides the ability to insert user data generated during the use of the app. This means that as a developer, you're able to record data about user interactions while maintaining the user's fundamental ownership and control over over that data.
+
+This API follows the official [GraphQL specification](https://spec.graphql.org/). It uses [cursor-based pagination](https://graphql.org/learn/pagination/#end-of-list-counts-and-connections) for all lists included. In this documentation we'll go over some usage examples for this API as well as provide a reference for the schema used.
