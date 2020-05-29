@@ -18,11 +18,11 @@ module.exports = {
 			'/quickstart/',
 			'/glossary/',
 			{
-				title: 'User data',
-				path: '/userdata/',
+				title: 'Data Access',
+				path: '/data/',
 				collapsable: false,
 				children: [
-					'/userdata/api/'
+					'/data/aggregated/'
 				]
 			}
 		],
