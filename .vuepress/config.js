@@ -14,7 +14,10 @@ module.exports = {
 			}
 		],
 		sidebar: [
-			'/introduction/',
+			{
+				title: 'Introduction',
+				path: '/'
+			},
 			'/quickstart/',
 			'/glossary/',
 			{
