@@ -1,1 +1,2 @@
 # Getting started
+Prifina is currently under development, the quickstart guide will be made available soon. For ideas prior to the public release of our developer tools, check out our [pilot applications](https://dev.prifina.com/examples)
