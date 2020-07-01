@@ -12,5 +12,5 @@ features:
   details: Because Prifina app backends can run directly on a user's Personal Private Cloud, you can spend less time maintaining servers and more time building exceptional experiences for your users.
 - title: CCPA/ GDPR compliant
   details: Using Prifina means your users own their data and provide you with access. This model is inherently compliant with GDPR and CCPA.
-footer: Copyright © 2020-present Prifina
+footer: Copyright © 2020-Present Prifina
 ---
