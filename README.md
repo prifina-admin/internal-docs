@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 heroImage: /img/logo.svg
 heroText: Prifina for Developers
 tagline: Prifina develops new solutions to manage personal data, that offer a better customer experience and empower individuals.
