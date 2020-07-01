@@ -20,10 +20,10 @@ For control of this pagination, each field of a Connection type takes an argumen
 ```graphql
 query {
   profileInfo {
-    educationsConnection(pageArgs : {
-                                      first: 1
-                                    }
-                        ){
+    educations(pageArgs : {
+                            first: 1
+                          }
+              ){
       totalCount
       edges {
         node {
@@ -45,7 +45,7 @@ query {
 {
   "data" : {
     "profileInfo" : {
-      "educationsConnection" : {
+      "educations" : {
         "totalCount" : 1,
         "edges" : [
           {
@@ -69,6 +69,8 @@ query {
 - `profileInfo: ProfileInfo` Information regarding a user's personal profile.
 
 ### Object Types
+#### type: Address
+Based on [xNAL standard], an address in generalized internationa format. Fields here are deliberately vague to account for the wide variety of conventions in use internationally.
 
 #### type: PageArgs
 Pagination control arguments to be passed to a Connection object.
@@ -77,9 +79,27 @@ Pagination control arguments to be passed to a Connection object.
 - `first: Int` Number of results to get.
 - `after: String` Get results following a given cursor.
 - `offset: Int` Offset of results. For example, an offset of (-1) would include the cursor specified by `after`.
+
 #### type: PageInfo
 Metadata about a page of results, used in [pagination](#pagination).
 
 **Fields:**
 - `endCursor: String` Cursor for final edge of page.
 - `hasNextPage: Boolean` Whether there are more results after the position of `endCursor`.
+
+#### type: ProfileInfo
+Profile-level information on a user.
+
+**Fields:**
+- `firstName: String` Given name.
+- `lastName: String` Surname.
+- `middleName: String` Middle name.
+- `dob: ISODateTime` Date/time of birth.
+- `gender: String` Gender.
+- `orientation: String` Sexual oritentation.
+- `residences: [ResidenceConnection]` Residences, current and former, on record. See: [`type: Residence`](#type-residence).
+
+#### type: Residence
+**Fields:**
+- `address: Address`
+- `isCurrent: Boolean` Whether residence is currently in use.
