@@ -26,9 +26,9 @@ Prifina's goal is to provide a platform where users are empowered through having
 
 **Prifina apps can be classified into one of [three categories](https://medium.com/prifina/build-3-types-of-data-apps-with-prifina-7db735e14590):**
 
-#### Profile apps
+### Profile apps
 Profile apps can exist outside of Prifina's platform and access data from Prifina users' profile cards. In a profile app, a user can choose their desired level of anonymity while still providing the application developer with enough data to provide enhanced and personalized content.
-#### Data widgets
+### Data widgets
 Data widgets are Prifina's dashboard apps. Once installed through Prifina's native marketplace, they become available on a user's Prifina dashboard. Data widgets can safely have greater access to a user's data, because they are running locally in the user's Personal Private Cloud. In the case of data widgets, no data ever leaves the user's control.
-#### Local data apps
+### Local data apps
 Like data widgets, local data apps run in the user's Personal Private Cloud. Local data apps are granted explicit permissions by the user regarding data access, and are able to communicate with other Prifina apps as well as with third party platforms. Local data apps can be extended beyond Prifina's platform to provide immersive and convenient experiences 
