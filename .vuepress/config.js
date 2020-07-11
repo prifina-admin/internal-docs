@@ -27,8 +27,8 @@ module.exports = {
 					'/data/aggregated/'
 				]
 			}
-		],
 			'/glossary/',
-		sidebarDepth: 1,
+		],
+	    sidebarDepth: 1,
 	}
 }
