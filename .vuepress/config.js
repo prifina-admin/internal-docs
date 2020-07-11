@@ -26,7 +26,7 @@ module.exports = {
 				children: [
 					'/data/aggregated/'
 				]
-			}
+			},
 			'/glossary/',
 		],
 	    sidebarDepth: 1,
