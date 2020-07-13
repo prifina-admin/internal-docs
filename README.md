@@ -14,10 +14,10 @@ features:
   details: Using Prifina means your users own their data and provide you with access. This model is inherently compliant with GDPR and CCPA.
 footer: Copyright © 2020-Present Prifina
 ---
-# Introduction
-## Core concept
+# About Prifina
+## Our core concept
 Prifina provides a personal computing platform in the cloud for individuals to manage their personal data and empower them to activate their data in fundamentally new ways. For developers and service providers, Prifina provides a platform to develop and publish new types of personal applications and personalized experiences for their customers.
-## Data control
+## How it works
 ### Profile cards
 Prifina users have the ability to create **profile cards**. These cards consist of aggregated and anonymized personal data designed to be shared with third parties without identifying the particular user. Profile cards allow third party services to provide personalized content and interactions with users, without the need for an account or unique authentication system.
 

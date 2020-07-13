@@ -15,11 +15,10 @@ module.exports = {
 		],
 		sidebar: [
 			{
-				title: 'Introduction',
+				title: 'About Prifina',
 				path: '/'
 			},
 			'/quickstart/',
-			'/glossary/',
 			{
 				title: 'Data Access',
 				path: '/data/',
@@ -27,8 +26,9 @@ module.exports = {
 				children: [
 					'/data/aggregated/'
 				]
-			}
+			},
+			'/glossary/',
 		],
-		sidebarDepth: 1,
+	    sidebarDepth: 1,
 	}
 }
