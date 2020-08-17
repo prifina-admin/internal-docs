@@ -14,6 +14,7 @@ features:
   details: Using Prifina means your users own their data and provide you with access. This model is inherently compliant with GDPR and CCPA.
 footer: Copyright © 2020-Present Prifina
 ---
+# Testing
 # About Prifina
 ## Our core concept
 Prifina provides a personal computing platform in the cloud for individuals to manage their personal data and empower them to activate their data in fundamentally new ways. For developers and service providers, Prifina provides a platform to develop and publish new types of personal applications and personalized experiences for their customers.
