@@ -15,3 +15,6 @@ Raw data standardized for ease of use. It is available exclusively to Local Data
 
 ### Profile Card Data
 Subsets of aggregate data which can be anonymized or abstracted. Available to all applications and services which receive permission from the user. These are outlined by their corresponding Profile Cards, and allow the user to control the availability of their data and easily provide access to third-parties.
+
+### Use Case Specific Profiles and Segments
+There are many use cases using data and for each of those use cases, there are profiles and productizations of data that make running applications easier. If you have a profile or productization of data you believe would be helpful for others, please do contribute it to the open source GitHub on [Liberty. Equality. Data.](https://github.com/libertyequalitydata)
