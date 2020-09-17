@@ -78,6 +78,11 @@ The App Market has the following fields that need to be filled out to describe t
 ## Package Your Application
 To get your application published in our App Market, you will need to supply the Prifina team an .Zip archive build deployment package with the relevant <a href="https://web.dev/add-manifest/">manifest</a> file, to be reviewed by the Prifina App market team.
 
+## Get In Touch
+
+To get in touch with us you can join our [Slack](https://join.slack.com/t/prifinadev/shared_invite/zt-8d8ynow6-UFwwICFyYmgT8L~juBsBUw) or email developer@prifina.com
+
+
 ## FAQ
 **Q**: Do you support other JavaScript apps than React? 
 
