@@ -3,13 +3,13 @@
 
 ## Introduction
 
-Prifina provides a user-held data platform that allows you to build React applications that the user can install via our App Market and run them in their personal data clouds (AWS). These apps use props or context providers as the interface to connect with users personal data. 
+Prifina provides a user-held data platform that allows you to build React applications that the user can install via our App Market and run them in their personal data clouds (AWS). These apps use <a href="https://reactjs.org/docs/components-and-props.html">props</a> or <a href="https://reactjs.org/docs/context.html">context providers</a> as the interface to connect with users personal data. 
 
-To get your application published in our App Market, you will need to supply the Prifina team an archive build deployment package with the relevant manifest file, to be reviewed by the Prifina App market team.
+To get your application published in our App Market, you will need to supply the Prifina team an archive build deployment package with the relevant <a href="https://web.dev/add-manifest/">manifest</a> file, to be reviewed by the Prifina App market team.
 
 ## What application to build?
 
-If you are wondering what data is available to build for, you can download the type of data that the users can have, from looking at the Prifina Your Data page. We recommend that you simply download your own data from any of these platforms or identify any other sources that are most interesting to you.
+If you are wondering what data is available to build for, you can download the type of data that the users can have, from looking at the <a href="https://www.prifina.com/your-data.html">Prifina Your Data</a> page. We recommend that you simply download your own data from any of these platforms or identify any other sources that are most interesting to you.
 
 Probably the most interesting new type of applications can be built by mixing data from multiple different data sources and or combining those with public data sources.
 
@@ -19,7 +19,7 @@ In addition to data that your application is using, you should also think about 
 
 When you have decided the type of application you want to build and have the data sources identified that have the data you want to use, a simple way to start building is by simply forking this GitHub library and start building your own app.
 
-You can also use these open source components from our Blend Design System library in our Storybook, and other useful assets from our GitHub. 
+You can also use these open source components from our Blend Design System library in our <a href="http://alpha.blend-ui.prifina.com/">Storybook</a>, and other useful assets from our <a href="https://github.com/prifina">GitHub</a>. 
 
 You do not need to use these assets, but they can help get you started. 
 
@@ -57,7 +57,9 @@ Here are some things to consider when thinking about data in your app:
 - Any configuration data you may need
 
 ## Getting your Application Published
-Application Details for App Market
+
+### Application Details for App Market
+
 The App Market has the following fields that need to be filled out to describe the application and its various functionality included:
 
 - App name
@@ -74,11 +76,11 @@ The App Market has the following fields that need to be filled out to describe t
 - Support Contact
 
 ## Package Your Application
-To get your application published in our App Market, you will need to supply the Prifina team an .Zip archive build deployment package with the relevant manifest file, to be reviewed by the Prifina App market team.
+To get your application published in our App Market, you will need to supply the Prifina team an .Zip archive build deployment package with the relevant <a href="https://web.dev/add-manifest/">manifest</a> file, to be reviewed by the Prifina App market team.
 
 ## FAQ
-Q: Do you support other JavaScript apps than React? 
-A: We will gradually expand our support also for other JavaScript libraries and frameworks. 
+**Q**: Do you support other JavaScript apps than React? 
+**A**: We will gradually expand our support also for other JavaScript libraries and frameworks. 
 
 
 
