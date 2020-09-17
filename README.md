@@ -18,8 +18,8 @@ footer: Copyright © 2020-Present Prifina
 ## Our core concept
 Prifina provides a personal computing platform in the cloud for individuals to manage their personal data and empower them to activate their data in fundamentally new ways. For developers and service providers, Prifina provides a platform to develop and publish new types of personal applications and personalized experiences for their customers.
 ## How it works
-### Profile cards
-Prifina users have the ability to create **profile cards**. These cards consist of aggregated and anonymized personal data designed to be shared with third parties without identifying the particular user. Profile cards allow third party services to provide personalized content and interactions with users, without the need for an account or unique authentication system.
+### User-held Data
+Prifina users have the ability to bring their personal data into their own personal cloud, then install applications to their Personal Data Cloud and Sandbox. This Personal Cloud is an individual user AWS instance (expanded to other infrastructures depending on the context), open source software allowing easy importing, uploading, managing of personal data and the data itself that that software allows you to bring into your Personal Data Cloud. This data is organized into objects in the local environment, and further productized and produtizable into different profiles, segments etc that support different use cases and the data is usable in the “Local” Cloud Environment.
 
 ## Prifina apps
 Prifina's goal is to provide a platform where users are empowered through having absolute control over their data and its accessibility, and where developers are empowered to create a new kind of data-driven experience for users, while respecting their data privacy.
