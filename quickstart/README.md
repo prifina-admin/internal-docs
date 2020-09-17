@@ -1,4 +1,84 @@
 # Getting started
-Prifina is currently under development, the quickstart guide will be made available soon. <!--For ideas prior to the public release of our developer tools, check out our [pilot applications](https://dev.prifina.com/examples)-->
 
-To learn more, give feedback, or get involved in ongoing development, you can join our rapidly growing Liberty. Equality. Data. community of personal data developers. Find us on [Slack](https://join.slack.com/t/libertyequalitydata/shared_invite/zt-ddr4t974-MCzsch4FSeux8DrFQ2atbQ) and [Facebook](https://www.facebook.com/groups/557824668309572).
+
+##Introduction
+
+Prifina provides a user-held data platform that allows you to build React applications that the user can install via our App Market and run them in their personal data clouds (AWS). These apps use props or context providers as the interface to connect with users personal data. 
+
+To get your application published in our App Market, you will need to supply the Prifina team an archive build deployment package with the relevant manifest file, to be reviewed by the Prifina App market team.
+
+##What application to build?
+
+If you are wondering what data is available to build for, you can download the type of data that the users can have, from looking at the Prifina Your Data page. We recommend that you simply download your own data from any of these platforms or identify any other sources that are most interesting to you.
+
+Probably the most interesting new type of applications can be built by mixing data from multiple different data sources and or combining those with public data sources.
+
+In addition to data that your application is using, you should also think about new data that your application will be able to generate for the user, and as such also becomes a new data source for other new applications.
+
+##How to start?
+
+When you have decided the type of application you want to build and have the data sources identified that have the data you want to use, a simple way to start building is by simply forking this GitHub library and start building your own app.
+
+You can also use these open source components from our Blend Design System library in our Storybook, and other useful assets from our GitHub. 
+
+You do not need to use these assets, but they can help get you started. 
+
+##Application Data Model
+
+###Data Source Details
+
+Submit data source details your applications is planning to use:
+
+- Data source URL, description?
+- Data Model and/or API Documentation URL is available?
+- Description of data objects & fields you are planning to use?
+- How do you plan to use this data in your application?
+- Any additional notes?
+
+###About New Data Your Application Generates:
+
+- Data Category?
+- Description of data objects & fields?
+- Any additional notes?
+- Document Your App Data as a GraphQL Schema
+- The end result for interacting with user-held data is documented in GraphQL Schema format. 
+- Document your application data model as a GraphQL schema and send it to us for review along with schema visualisation. 
+- We will integrate it with our Open Standard Master Schema and provide you with the supported data model to use in your final application.
+
+###Helpful tips
+
+Here are some things to consider when thinking about data in your app:
+
+- When considering data model for your application, look into any open, industry or de facto standards where available
+- New personal data that your application can create has increasing value to your customer and other developers
+- What ‘log data’ do you need for debugging your application
+- What non-personal / statistic data can your application create that may have value for your customers or other developers 
+- What transactional data your application will generate
+- Any configuration data you may need
+
+##Getting your Application Published
+Application Details for App Market
+The App Market has the following fields that need to be filled out to describe the application and its various functionality included:
+
+- App name
+- Description [max xx characters]
+- Key Features 
+- Application Screenshot Images
+- App publisher name 
+- Type of application, Local Data App, Widget App or Profile Data App.
+- Application category
+- Available User Interfaces (Desktop Browser, Mobile Browser, Mobile App)
+- Languages Supported
+- Age restrictions
+- Data Permission, for what type of data your application will require
+- Support Contact
+
+##Package Your Application
+To get your application published in our App Market, you will need to supply the Prifina team an .Zip archive build deployment package with the relevant manifest file, to be reviewed by the Prifina App market team.
+
+##FAQ
+Q: Do you support other JavaScript apps than React? 
+A: We will gradually expand our support also for other JavaScript libraries and frameworks. 
+
+
+
