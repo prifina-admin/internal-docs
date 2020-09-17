@@ -80,6 +80,7 @@ To get your application published in our App Market, you will need to supply the
 
 ## FAQ
 **Q**: Do you support other JavaScript apps than React? 
+
 **A**: We will gradually expand our support also for other JavaScript libraries and frameworks. 
 
 
