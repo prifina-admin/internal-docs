@@ -84,7 +84,7 @@ To get in touch with us you can join our [Slack](https://join.slack.com/t/prifin
 
 
 ## FAQ
-**Q**: Do you support other JavaScript apps than React? 
+**Q**: Do you support other JavaScript apps than React?  
 **A**: We will gradually expand our support also for other JavaScript libraries and frameworks. 
 
 
