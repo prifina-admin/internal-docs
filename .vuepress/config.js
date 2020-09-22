@@ -4,7 +4,8 @@ module.exports = {
 	themeConfig: {
 		logo: '/img/logo.svg',
 		nav: [
-			{ text: 'Home', link: 'https://www.prifina.com/' },
+			{ text: 'Prifina.com', link: 'https://www.prifina.com/' },
+			{ text: 'For Developers', link: 'https://dev.prifina.com/' },
 			{
 				text: 'Community',
 				items: [
