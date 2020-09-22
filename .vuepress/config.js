@@ -1,6 +1,6 @@
 module.exports = {
-	title: 'Prifina Dev',
-	description: 'Prifina Developer Documentation',
+	title: 'Prifina Developer Docs',
+	description: 'Documentation for developers',
 	themeConfig: {
 		logo: '/img/logo.svg',
 		nav: [
