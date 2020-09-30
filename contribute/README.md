@@ -1,12 +1,12 @@
-# Contributing
+# Improving Together
 
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://www.prifina.com/code-of-conduct.html).
 
-## Contribute to Use Cases, Tools, Assets
+## Can You Make This Internal Site Better
 
-If you have projects, use cases, additions that may benefit other developers when thinking about their own applications or resources, we highly encourage adding those to the [Liberty. Equality. Data. GitHub](https://github.com/libertyequalitydata) When you've forked the repo, and updated relevant content, please file a pull request (PR). At this stage, don't sweat the small stuff. 
+If you are reading this, chances are you've gone through the onboarding process yourself recently and you are uniquely qualified to know how well this site works, and more importantly, how we can improve it. We highly encourage suggestions and recommendations, which you can send to anyone on slack or to support@prifina.com. At this stage, don't sweat the small stuff, everything helps.
 
-## Improve existing content
+## Nothing is Someone Else's Responsibility at Prifina
 
-If you are able improve existing content, we believe better is better. When you've forked the repo, and updated relevant content, please file a pull request (PR). If unsure, you can always get in touch with us on [Slack](https://join.slack.com/t/libertyequalitydata/shared_invite/zt-ddr4t974-MCzsch4FSeux8DrFQ2atbQ) or at developer@prifina.com 
+A core part of our culture is improving what you see and never expecting someone else to do it later (imagine if everyone thought that way, nothing would ever improve!). Jot down suggestions, and shoot those to us. We guarantee it has an impact.
 
