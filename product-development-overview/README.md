@@ -3,7 +3,7 @@
 In our product development at the highest level, we separate the development workflow into four main tracks, each having their own processess where 
 development work lives. These four tracks are:
 
-## Two Product Developmnet Tracks
+## Two Product Development Tracks
 
 ### Prototyping, testing and demonstration needs. 
 
