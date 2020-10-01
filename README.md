@@ -24,7 +24,7 @@ Prifina's goal is to provide a platform where users have the best and fullest co
 
 Prifina develops and sponsors it's own applications to the marketplace, and supports, sponsors and co-creates new applications with third party developers. Third party developers may also [build their](http://docs.prifina.com/quickstart/#introduction) own applications and submit them to the Prifina App Market. 
 
-**Prifina apps can be classified into one of [three categories](https://medium.com/prifina/build-3-types-of-data-apps-with-prifina-7db735e14590):**
+### Prifina apps can be classified into one of [three categories](https://medium.com/prifina/build-3-types-of-data-apps-with-prifina-7db735e14590):
 
 ### Data Widgets
 Data widgets are Prifina's dashboard apps. Once installed through Prifina's App Market, they become available on a user's Prifina Display. Data widgets can safely have greater access to a user's data, because they are running locally in the user's Personal Private Cloud. In the case of data widgets, no data ever leaves the user's control.
