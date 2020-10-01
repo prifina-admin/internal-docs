@@ -18,3 +18,6 @@ Our main environment consists of the following:
 
 
 This [Service Development Overview](https://docs.google.com/spreadsheets/u/1/d/1E8XyNz5RXIZL3xlbmVwIy8VpQuJbd1tWXlLxQbFom2s/edit#gid=1047760663) is used for keeping track of all of the User Stories 
+
+## Starting Tasks
+All tasks start with the User Story and the [User Story Template](https://docs.google.com/document/d/1EmWknSdwgKHQ_60-pFW-6fyjhiAqM3m1-w0WqjnSlhI/edit#heading=h.ep2rboz1tlj7). Read more about it in the section about User Stories. 
