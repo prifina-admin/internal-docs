@@ -3,10 +3,10 @@
 
 ## The TLDR 
 
-- Prifina is a commercial open source data technology company headquartered in San Francisco
+Prifina is a commercial open source data technology company headquartered in San Francisco
 
- Prifina provides a software platform, that is;
--- Data-driven
+Prifina provides a software platform, that is;
+- Data-driven
   Prifina's API can provide you with the data to deliver dynamic and highly personalized content to your users.
 - Serverless
   Apps on Prifina can run their backends directly on a user's Personal  Cloud, you can spend less time maintaining servers and more time building exceptional experiences for your users.
