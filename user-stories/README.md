@@ -2,7 +2,7 @@
 
 ### Steps involved
 
-UX/UI -> Lo-Fi Wireframes -> Hi-Fi Clickable Prototype -> React Component Development -> Text Content Creation -> Pull Requests to GitHub for both React Components and text needed -> Setup Microfunctions -> Release Testing
+UX/UI -> Lo-Fi Wireframes -> Hi-Fi Clickable Prototype -> React Component Development -> Text Content Creation -> Pull Requests to GitHub for both i) React Components and ii) The text needed -> Setup Microfunctions -> Release Testing
 
 ## UX/UI
 
