@@ -1,6 +1,6 @@
 module.exports = {
-	title: 'Prifina Developer Docs',
-	description: 'Documentation for developers',
+	title: 'Prifina Internal',
+	description: 'Resources for Working with Prifina',
 	themeConfig: {
 		logo: '/img/logo.svg',
 		nav: [
@@ -16,19 +16,32 @@ module.exports = {
 		],
 		sidebar: [
 			{
-				title: 'About Prifina',
+				title: 'Prifina, a Summary',
 				path: '/'
 			},
-			'/quickstart/',
+			'/contribute/',
 			{
-				title: 'Data Access',
-				path: '/data/',
-				collapsable: false,
-				children: [
-					'/data/aggregated/'
-				]
+
 			},
-			'/glossary/',
+			'/documenting/',
+			{
+
+			},
+			'/faq/',
+			{
+				
+			},
+			'/getting-started/',
+			{
+				
+			},
+			'/product-development-overview/',
+			{
+				
+			},
+			'/user-stories/',
+			{
+		
 		],
 	    sidebarDepth: 1,
 	}
