@@ -19,29 +19,28 @@ module.exports = {
 				title: 'Prifina, a Summary',
 				path: '/'
 			},
+			{
 			'/contribute/',
-			{
-
 			},
+			
+			{
 			'/documenting/',
-			{
-
 			},
+			
+			{
 			'/faq/',
-			{
-				
 			},
+			
+			{
 			'/getting-started/',
-			{
-				
 			},
+			
+			{
 			'/product-development-overview/',
-			{
-				
 			},
-			'/user-stories/',
-			{
 				
+			{
+			'/user-stories/',	
 			}
 		
 		],
