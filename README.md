@@ -1,7 +1,7 @@
 
 # Summary About Prifina
 
-## The TLDR 
+## The TLDRs 
 
 Prifina is a commercial open source data technology company headquartered in San Francisco, with another office in Helsinki
 
