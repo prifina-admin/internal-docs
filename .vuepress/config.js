@@ -10,7 +10,7 @@ module.exports = {
 				items: [
 					{ text: 'Developers Main', link: 'https://dev.prifina.com/' },
 					{ text: 'Github', link: 'https://github.com/libertyequalitydata' },
-					{ text: 'Slack', link: 'https://join.slack.com/t/libertyequalitydata/shared_invite/zt-ddr4t974-MCzsch4FSeux8DrFQ2atbQ' }
+					{ text: 'Slack', link: 'prifinadev.slack.com' }
 				]
 			}
 		],
