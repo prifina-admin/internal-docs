@@ -19,7 +19,7 @@ module.exports = {
 			
 			{
 				title: 'Prifina, a Summary',
-				path: '/',
+				path: '/'
 			},
 			
 			
