@@ -14,42 +14,44 @@ module.exports = {
 				]
 			}
 		],
+		
 		sidebar: [
+			
 			{
 				title: 'Prifina, a Summary',
-				path: '/'
+				path: '/',
 			},
 			
 			{
 				title: 'Getting Started',
-				path: '/getting-started/
+				path: '/getting-started/,
 			},
 			
 			{
 				title: 'Development Overview',
-				path: '/product-development-overview/'
+				path: '/product-development-overview/',
 			},
 			
 					
 			{
 				title: 'User Stories',
-				path: '/user-stories/'	
+				path: '/user-stories/',	
 			},
 			
 			{
 				title: 'Documenting',
-				path: '/documenting/'
+				path: '/documenting/',
 			},
 			
 			{
 				title: 'Improving Together',
-				path: '/contribute/'
+				path: '/contribute/',
 			},
 			
 			
 			{
 				title: 'Frequently Asked',
-				path: '/faq/'
+				path: '/faq/',
 			},
 	
 		
