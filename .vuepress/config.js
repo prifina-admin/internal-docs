@@ -22,19 +22,12 @@ module.exports = {
 				path: '/'
 			},
 			
-			
 				'/getting-started/,
-			
 				'/product-development-overview/',
-			
 				'/user-stories/',	
-			
 				'/documenting/',
-			
 				'/contribute/',
-			
 				 '/faq/',
-	
 		
 		],
 	    sidebarDepth: 1,
