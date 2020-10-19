@@ -33,12 +33,12 @@ module.exports = {
 					
 			{
 				title: 'User Stories',
-				path: '/user-stories/',	
+				path: '/user-stories/'	
 			},
 			
 			{
 				title: 'Documenting',
-				path: '/documenting/',
+				path: '/documenting/'
 			},
 			
 			{
