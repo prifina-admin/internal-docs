@@ -22,37 +22,18 @@ module.exports = {
 				path: '/',
 			},
 			
-			{
-				title: 'Getting Started',
-				path: '/getting-started/,
-			},
 			
-			{
-				title: 'Development Overview',
-				path: '/product-development-overview/',
-			},
+				'/getting-started/,
 			
-					
-			{
-				title: 'User Stories',
-				path: '/user-stories/',	
-			},
+				'/product-development-overview/',
 			
-			{
-				title: 'Documenting',
-				path: '/documenting/',
-			},
+				'/user-stories/',	
 			
-			{
-				title: 'Improving Together',
-				path: '/contribute/',
-			},
+				'/documenting/',
 			
+				'/contribute/',
 			
-			{
-				title: 'Frequently Asked',
-				path: '/faq/',
-			},
+				 '/faq/',
 	
 		
 		],
