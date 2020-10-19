@@ -22,7 +22,7 @@ module.exports = {
 				path: '/'
 			},
 			
-				'/getting-started/,
+				'/getting-started/',
 				'/product-development-overview/',
 				'/user-stories/',	
 				'/documenting/',
