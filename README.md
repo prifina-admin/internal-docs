@@ -32,5 +32,5 @@ Profile apps can exist outside of Prifina's platform and access data from Prifin
 ### Mobile Apps
 Native mobile applications can be built similar to Local Data Apps, with the help of Prifina's Native Mobile App that controls and manages access between the native mobile application and the personal data cloud. Mobile apps and the protocol for mobile applications is still heavily in development.
 
-#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/readme.md) / [Guidelines](http://internal.prifina.com/contribute/)
+#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/blob/master/README.md) / [Guidelines](http://internal.prifina.com/contribute/)
 
