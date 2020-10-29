@@ -16,8 +16,8 @@ Document the identified components to be developed into the [Storybook Drafts -G
 
 **Helpful resources:**
 
-a: [identifying all subcomponents](https://docs.google.com/document/d/1tOnoPfJnDeApFf7o3Ft9JqnkJ5XQoZX_pREF4tDKHZ0) within structured ‘element components’,     
-b: [documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components. 
+- [identifying all subcomponents](https://docs.google.com/document/d/1tOnoPfJnDeApFf7o3Ft9JqnkJ5XQoZX_pREF4tDKHZ0) within structured ‘element components’,     
+- [documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components. 
   
   to make sure all needed details needed to develop the component exist and are confirmed 
 
