@@ -1,4 +1,4 @@
-# React Components Development Workflow
+# React Component Development 
 
 Our ReactJS components are developed using a styled-components approach (preferably React functions based components). In line with documentation driven development  and quality code principles, deliverables must also include related documentation, built with the following workflow described here.
 
