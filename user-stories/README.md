@@ -42,5 +42,6 @@ This will allow anyone to step into the user experience and see the flow we are 
 - It should be tested also when interacting with Related User Stories (in the User Story Document)
 - If it passes the Acceptance Criteria in the User Story Document, it is considered finished
 
+#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/user-stories/) / [Guidelines](http://internal.prifina.com/contribute/)
 
 
