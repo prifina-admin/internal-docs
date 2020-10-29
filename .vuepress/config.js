@@ -25,7 +25,6 @@ module.exports = {
 				'/getting-started/',
 				'/product-development-overview/',
 				'/component-development/',
-				'/data-modeling/',
 				'/user-stories/',	
 				'/documenting/',
 				'/contribute/',
