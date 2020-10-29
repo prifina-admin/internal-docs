@@ -30,8 +30,8 @@ those “building block” -components already available with a link to the avai
 developed as part of your bigger component. Those that need to be developed, should be also listed as GitHub Issue cards and 
 documented in more detail ([see examples here](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x)). 
   
-> this is to make sure existing components are used<br>
-> new components are only built with  existing components when available, and<br> 
+> this is to make sure existing components are used
+> new components are only built with  existing components when available, and 
 > that completely new components are only created where they don't already exist
 
 ### 3. Update ‘GitHub Issue cards’ 
@@ -40,7 +40,7 @@ Update GitHub issues from each component using this [template format](https://gi
 with component related documentation details in your Storybook Draft / Figma / User Story doc / etc. 
 (see also list of [all existing user stories](https://docs.google.com/spreadsheets/d/1E8XyNz5RXIZL3xlbmVwIy8VpQuJbd1tWXlLxQbFom2s/edit#gid=822828220)). 
   
-> this is to make sure that all needed details are easily available when components are reviewed <br>
+> this is to make sure that all needed details are easily available when components are reviewed
 > for approval from different aspects; UX logic, code quality, measures, etc.
 
 ### 4. Plan your work before you code. 
@@ -49,7 +49,7 @@ In the issue cards, describe your plan, how the ReactJS component, using styled-
 
 Use existing [Blend components](https://github.com/prifina/blend-ui) as your ‘building blocks’ components when available (NOTE: Always use the latest alpha-package version, and not the normal 'latest' version labeled by GitHub).
   
-> to get your plan checked and validated, before potentially wasting time on creating anything redundant<br> 
+> to get your plan checked and validated, before potentially wasting time on creating anything redundant
 > this is important particularly on your first component, further components follow the same approach.
 
 ### 5. Develop Based on Approved Plan 
