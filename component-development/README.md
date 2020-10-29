@@ -16,8 +16,8 @@ Document the identified components to be developed into the [Storybook Drafts -G
 
 **Helpful resources:**
 
-- [identifying all subcomponents](https://docs.google.com/document/d/1tOnoPfJnDeApFf7o3Ft9JqnkJ5XQoZX_pREF4tDKHZ0) within structured ‘element components’,     
-- [documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components. 
+[identifying all subcomponents](https://docs.google.com/document/d/1tOnoPfJnDeApFf7o3Ft9JqnkJ5XQoZX_pREF4tDKHZ0) within structured ‘element components’,<br>    
+[documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components. 
 
 As part documenting and *before any component development*, check what existing reusable components are available to use as 
 your ‘building blocks’ components: [Blend GitHub](https://github.com/prifina/blend-ui) - Prifina [Desktop App GitHub](https://github.com/prifina/app-desktop) 
@@ -50,13 +50,13 @@ In the issue cards, describe your plan, how the ReactJS component, using styled-
 Use existing [Blend components](https://github.com/prifina/blend-ui) as your ‘building blocks’ components when available (NOTE: Always use the latest alpha-package version, and not the normal 'latest' version labeled by GitHub).
   
 - to get your plan checked and validated, before potentially wasting time on creating anything redundant
-- this is important particularly on your first component, further components follow the same approach.
+- this is important particularly on your first component, further components follow the same approach
 
 ### 5. Develop Based on Approved Plan 
 
 Develop each component one by one, based on your own documentation and plan/approach that has been approved. Our normal development workflow requires forking and then creating a ‘pull request’ against the alpha branch. 
   
-- ask for feedback for your code using GitHub comments feature in the Issue card.
+- ask for feedback for your code using GitHub comments feature in the Issue card
 
 ### 6. Test and Verify Components 
 
