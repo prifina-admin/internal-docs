@@ -31,8 +31,8 @@ developed as part of your bigger component. Those that need to be developed, sho
 documented in more detail ([see examples here](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x)). 
   
 > this is to make sure existing components are used<br>
-  new components are only built with  existing components when available, and<br>
-  that completely new components are only created where they don't already exist
+> new components are only built with  existing components when available, and<br> 
+> that completely new components are only created where they don't already exist
 
 ### 3. Update ‘GitHub Issue cards’ 
 
@@ -41,7 +41,7 @@ with component related documentation details in your Storybook Draft / Figma / U
 (see also list of [all existing user stories](https://docs.google.com/spreadsheets/d/1E8XyNz5RXIZL3xlbmVwIy8VpQuJbd1tWXlLxQbFom2s/edit#gid=822828220)). 
   
 > this is to make sure that all needed details are easily available when components are reviewed <br>
-  for approval from different aspects; UX logic, code quality, measures, etc.
+> for approval from different aspects; UX logic, code quality, measures, etc.
 
 ### 4. Plan your work before you code. 
 
