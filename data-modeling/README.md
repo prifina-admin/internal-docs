@@ -1,6 +1,6 @@
 # Data Modeling 
 
-*This section is a snippet, looking to be expanded.* 
+This section is a snippet, looking to be expanded. 
 
 ## Core Platform Data Model
 
