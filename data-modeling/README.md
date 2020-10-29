@@ -19,5 +19,5 @@ are built on top of.
 The main work for data modeling is building the data model as a GraphQL Schema. This will allow the applications the data
 layer needed to interact with the personal data cloud, as well as allow a GraphQL API to be connected later in development. 
 
-#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/data-modeling/) / [Guidelines](http://internal.prifina.com/contribute/)
+**[Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/data-modeling/) / [Guidelines](http://internal.prifina.com/contribute/)**
 
