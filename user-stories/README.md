@@ -1,4 +1,4 @@
-# How to Work Through a User Story
+# Working Through a User Story
 
 ### Steps involved
 
