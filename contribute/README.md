@@ -10,3 +10,6 @@ If you are reading this, chances are you've gone through the onboarding process 
 
 A core part of our culture is improving what you see and never expecting someone else to do it later (imagine if everyone thought that way, nothing would ever improve!). Jot down suggestions, and shoot those to us. We guarantee it has an impact.
 
+**[Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/contribute/) / Guidelines Above**
+
+
