@@ -55,4 +55,7 @@ Periodically when refining the Q&A, also the overall structure of the documentat
 - Additional learning resources 
 - Prototyping objectives and outcomes
 
+#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/documenting/) / [Guidelines](http://internal.prifina.com/contribute/)
+
+
 
