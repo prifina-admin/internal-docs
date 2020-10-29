@@ -42,3 +42,5 @@ where all things developed based on prototyping will be built “natively”, st
 
 When it comes to building high-quality products at scale. Our first and continuing target is to be able to make sure everyone is aligned, there is no "silent knowledge", no single "go-to person" needed, but that each person can become and continue to be independently productive in their work while caring that others can be as well. And that "everything scales" easily (making it easy to join the team and when someone leaves, things are easy to pick up & continue by others or new team member). 
 There will never be "some better time in the future" to fix foundational issues or catch up with Technical Debt. Especially if wanting to be and remain among the leading companies in digital business. So the best approach is to set the foundation well, and have a continuous iterative improving mindset and foundational setup for that.
+
+#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/product-development-overview/) / [Guidelines](http://internal.prifina.com/contribute/)
