@@ -116,3 +116,6 @@ started the project, and it turned out to be a wonderful tool to help make thing
 
 Helpful Links:<br>
 [Getting Started Guide](https://eslint.org/docs/user-guide/getting-started)
+
+#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/component-development/) / [Guidelines](http://internal.prifina.com/contribute/)
+
