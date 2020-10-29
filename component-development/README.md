@@ -8,8 +8,7 @@ Our ReactJS components are developed using a styled-components approach (prefera
 
 Identify ReactJS components that need to be created from Figma UI design files and list each identified component as a ‘GitHub Issue’ in the GitHub [prifina/app-desktop](https://github.com/prifina/app-desktop/issues) or [prifina/app-mobile](https://github.com/prifina/app-mobile/issues)
 
-  
-- this ensures all component(s) from the designs are correctly identified for development
+-> this ensures all component(s) from the designs are correctly identified for development
 
 ### 2. Document Components 
 
