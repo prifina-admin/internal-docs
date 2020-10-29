@@ -14,4 +14,9 @@ The individuals personal data cloud is where the user brings their data. This da
 users own personal data cloud, becomes the data layer that ultimately the applications that run in the Prifina environment
 are built on top of. 
 
+### Use of GraphQL Schema
+
+The main work for data modeling is building the data model as a GraphQL Schema. This will allow the applications the data
+layer needed to interact with the personal data cloud, as well as allow a GraphQL API to be connected later in development. 
+
 
