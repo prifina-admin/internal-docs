@@ -8,7 +8,7 @@ Our ReactJS components are developed using a styled-components approach (prefera
 
 Identify ReactJS components that need to be created from Figma UI design files and list each identified component as a ‘GitHub Issue’ in the GitHub [prifina/app-desktop](https://github.com/prifina/app-desktop/issues) or [prifina/app-mobile](https://github.com/prifina/app-mobile/issues).
 
-> this ensures all component(s) from the designs are correctly identified for development
+  this ensures all component(s) from the designs are correctly identified for development
 
 ### 2. Document Components 
 
@@ -18,8 +18,8 @@ Document the identified components to be developed into the [Storybook Drafts -G
 
 - [identifying all subcomponents](https://docs.google.com/document/d/1tOnoPfJnDeApFf7o3Ft9JqnkJ5XQoZX_pREF4tDKHZ0) within structured ‘element components’,     
 - [documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components. 
-  
-> to make sure all needed details needed to develop the component exist and are confirmed 
+
+  to make sure all needed details needed to develop the component exist and are confirmed 
 
 As part documenting and *before any component development*, check what existing reusable components are available to use as 
 your ‘building blocks’ components: [Blend GitHub](https://github.com/prifina/blend-ui) - Prifina [Desktop App GitHub](https://github.com/prifina/app-desktop) 
@@ -29,10 +29,10 @@ In your [Storybook drafts documentation](https://docs.google.com/document/d/1LYF
 those “building block” -components already available with a link to the available resources and identify those that need to be 
 developed as part of your bigger component. Those that need to be developed, should be also listed as GitHub Issue cards and 
 documented in more detail ([see examples here](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x)). 
-  
-> this is to make sure existing components are used
-> new components are only built with  existing components when available, and 
-> that completely new components are only created where they don't already exist
+
+  this is to make sure existing components are used
+  new components are only built with  existing components when available, and 
+  that completely new components are only created where they don't already exist
 
 ### 3. Update ‘GitHub Issue cards’ 
 
@@ -40,8 +40,8 @@ Update GitHub issues from each component using this [template format](https://gi
 with component related documentation details in your Storybook Draft / Figma / User Story doc / etc. 
 (see also list of [all existing user stories](https://docs.google.com/spreadsheets/d/1E8XyNz5RXIZL3xlbmVwIy8VpQuJbd1tWXlLxQbFom2s/edit#gid=822828220)). 
   
-> this is to make sure that all needed details are easily available when components are reviewed
-> for approval from different aspects; UX logic, code quality, measures, etc.
+  this is to make sure that all needed details are easily available when components are reviewed
+  for approval from different aspects; UX logic, code quality, measures, etc.
 
 ### 4. Plan your work before you code. 
 
@@ -49,14 +49,14 @@ In the issue cards, describe your plan, how the ReactJS component, using styled-
 
 Use existing [Blend components](https://github.com/prifina/blend-ui) as your ‘building blocks’ components when available (NOTE: Always use the latest alpha-package version, and not the normal 'latest' version labeled by GitHub).
   
-> to get your plan checked and validated, before potentially wasting time on creating anything redundant
-> this is important particularly on your first component, further components follow the same approach.
+  to get your plan checked and validated, before potentially wasting time on creating anything redundant
+  this is important particularly on your first component, further components follow the same approach.
 
 ### 5. Develop Based on Approved Plan 
 
 Develop each component one by one, based on your own documentation and plan/approach that has been approved. Our normal development workflow requires forking and then creating a ‘pull request’ against the alpha branch. 
   
-> ask for feedback for your code using GitHub comments feature in the Issue card.
+  ask for feedback for your code using GitHub comments feature in the Issue card.
 
 ### 6. Test and Verify Components 
 
