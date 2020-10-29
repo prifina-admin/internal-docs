@@ -22,4 +22,4 @@ This [Service Development Overview](https://docs.google.com/spreadsheets/u/1/d/1
 ## Starting Tasks
 All tasks start with the User Story and the [User Story Template](https://docs.google.com/document/d/1EmWknSdwgKHQ_60-pFW-6fyjhiAqM3m1-w0WqjnSlhI/edit#heading=h.ep2rboz1tlj7). Read more about it in the section about User Stories. 
 
-#### [Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/getting-started/) / [Guidelines](http://internal.prifina.com/contribute/)
+**[Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/getting-started/) / [Guidelines](http://internal.prifina.com/contribute/)**
