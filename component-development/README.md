@@ -19,20 +19,20 @@ Document the identified components to be developed into the [Storybook Drafts -G
 - [identifying all subcomponents](https://docs.google.com/document/d/1tOnoPfJnDeApFf7o3Ft9JqnkJ5XQoZX_pREF4tDKHZ0) within structured ‘element components’,     
 - [documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components. 
 
-- to make sure all needed details needed to develop the component exist and are confirmed 
-
 As part documenting and *before any component development*, check what existing reusable components are available to use as 
 your ‘building blocks’ components: [Blend GitHub](https://github.com/prifina/blend-ui) - Prifina [Desktop App GitHub](https://github.com/prifina/app-desktop) 
 (NOTE: Always use the latest alpha-package version, and not the normal 'latest' version labeled by GitHub) and Storybook.
+
+- to make sure all needed details needed to develop the component exist and are confirmed 
 
 In your [Storybook drafts documentation](https://docs.google.com/document/d/1LYFpVsRkH5VCHaCqYnYTzr0swspxngJaQov4qQTbYOg/edit), mark 
 those “building block” -components already available with a link to the available resources and identify those that need to be 
 developed as part of your bigger component. Those that need to be developed, should be also listed as GitHub Issue cards and 
 documented in more detail ([see examples here](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x)). 
 
-> this is to make sure existing components are used
-> new components are only built with  existing components when available, and 
-> that completely new components are only created where they don't already exist
+- this is to make sure existing components are used
+- new components are only built with  existing components when available, and 
+- that completely new components are only created where they don't already exist
 
 ### 3. Update ‘GitHub Issue cards’ 
 
