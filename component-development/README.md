@@ -62,7 +62,7 @@ Develop each component one by one, based on your own documentation and plan/appr
 
 Test components by creating a [Jest test script](https://jestjs.io/) for each component and testing your component using [Storybook](https://storybook.js.org/) (v.6.x)
 
-### 7. Delivering Final Component
+### 7. Delivering The Final Component
 
 Deliver the final component (using GitHub pull request) and any related supporting documentation in Storybook format (v.6.x), to make it available for others in our [storybook components library](http://alpha.app-storybook.prifina.com/) in this project.
 
