@@ -12,6 +12,10 @@ which simplify data access for developers and improve control for the users.
 ### Raw Data
 All data, as it was imported or provided by the user, in the structure it was provided in. This is the only state in which data is statically stored, and it is kept in JSON format. Raw data is parsed by the standardization layer to provide aggregate data.
 
+#### Raw Data Model Details - TEMPLATE
+
+For a template spreadsheet to document a new data source and it's related data model, attributes and details, you can find the [Raw Data Model Details TEMPLATE here](https://docs.google.com/spreadsheets/d/1D88Be4cdEnbuvy9TUgokJfW0u6xhArkI0oYjIsCjXxQ/)
+
 ### Aggregate Data
 Raw data standardized for ease of use. It is available exclusively to Local Data and Widget Apps, and can be accessed via GraphQL queries.
 
