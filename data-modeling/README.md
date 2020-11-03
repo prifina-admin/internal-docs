@@ -51,8 +51,7 @@ Aggregated data models are very carefully planned, with at least the following p
 2. Relatively easy to interpret
 3. Difficult to interpret  
 
-2,3 consist “danger zones” and need to be dealt with very carefully
-
+Points 2 and 3 consist “danger zones” and need to be dealt with very carefully.
 
 
 **[Improve This Doc?](https://github.com/prifina-admin/internal-docs/) / [Guidelines](http://internal.prifina.com/contribute/)**
