@@ -35,13 +35,18 @@ are built on top of.
 The main work for data modeling is building the data model as a GraphQL Schema. This will allow the applications the data
 layer needed to interact with the personal data cloud, as well as allow a GraphQL API to be connected later in development. 
 
-# Working principles for work on data modeling. 
+## Working principles for work on data modeling. 
 
-### Source data attributes, objects and information kept with 100% integrity unchanged, structure cleaned up to remove unnecessary formatting 
-1. Raw data is observed and documented 100% from the source, no interpretation or opinion is inferred
-2. Source and raw data is main focus
+### Source and Raw data 
 
-### Aggregated data is very carefully planned, with at least the following principles
+1. Source data attributes, objects and information kept with 100% integrity unchanged, structure cleaned up to remove unnecessary formatting 
+2. Raw data is observed and documented 100% from the source, no interpretation or opinion is inferred
+3. Source and raw data is main focus
+
+### Aggregated data 
+
+Aggregated data models are very carefully planned, with at least the following principles:
+
 1. Objectively clear data that can be aggregated, is aggregated, i.e. photos
 2. Relatively easy to interpret
 3. Difficult to interpret  
