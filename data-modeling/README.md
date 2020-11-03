@@ -1,10 +1,16 @@
 # Data Modeling    
 
-This section is a snippet, looking to be expanded. 
+This page is still a snippet, looking to be expanded. 
+
+## Core Platform Data Model  
+  
+The Prifina platform has it's own data model for its own internal needs. This is a core workstream for product 
+development and the product architecture overall, and is mainly exposed publicly in developer tools and documentations 
+for how applications are built and ultimately connected to the Prifina platform.
 
 ## Stages of Data
-Under the hood, Data on the Prifina platform is accessible in a number of formats.
-While data is stored in the raw formats by which a user provides it, we provide API layers
+Under the hood, data on the Prifina platform is accessible in a number of formats.
+While data is stored in the raw formats by which a user or service connection provides it, we provide technical data layers
 which simplify data access for developers and improve control for the users.
 
 ![Stages of data](./datastages.jpg)
@@ -20,13 +26,7 @@ For a template spreadsheet to document a new data source and it's related data m
 Raw data standardized for ease of use. It is available exclusively to Local Data and Widget Apps, and can be accessed via GraphQL queries.
 
 ### Profile Card Data
-Subsets of aggregate data which can be anonymized or abstracted. Available to all applications and services which receive permission from the user. These are outlined by their corresponding Profile Cards, and allow the user to control the availability of their data and easily provide access to third-parties.
-
-## Core Platform Data Model  
-  
-The Prifina platform has it's own data model for its own internal needs. This is a core workstream for product 
-development and the product architecture overall, and is mainly exposed publicly in developer tools and documentations 
-for how applications are built and ultimately connected to the Prifina platform. 
+Subsets of aggregate data which can be anonymized or abstracted. Available to all applications and services which receive permission from the user. These are outlined by their corresponding Profile Cards, and allow the user to control the availability of their data and easily provide access to third-parties. 
 
 ## Personal Cloud Data Model  
 
@@ -55,7 +55,7 @@ Aggregated data models are very carefully planned, with at least the following p
 2. Relatively easy to interpret
 3. Difficult to interpret  
 
-2,3 consist “danger zones” and need to be dealt with very carefully
+2,3 consist “danger zones” and need to be dealt with very carefully with version and access controls.
 
 
 
