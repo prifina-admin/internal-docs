@@ -29,6 +29,25 @@ This will allow anyone to step into the user experience and see the flow we are 
 - Create each individual component needed and document these components into the [Blend Component Library Spreadsheet](https://docs.google.com/spreadsheets/d/1Lctqh0s-J_w2uLxH6xyQnza9--PVXv35zuwcL-hkHzU/edit#gid=0)
 - Once created, submit the component to the [Prifina GitHub](https://github.com/prifina/blend-ui), from there it ultimately goes to [Storybook](http://alpha.app-storybook.prifina.com/?path=/story/landing--landing).
 
+## Figma Progress Indicator
+
+We use the Progress Indicator component component on Figma for all screens to mark progress.
+
+The symbols represent the following aspects respectively:
+- UX & UI Layout Design
+- Text Contents
+- Data Model
+- Visual Design
+- Components
+
+Available statuses:
+- No status
+- In-progress
+- Done/Approved
+- Skipped in this version
+
+The User Story can be approved, when all needed details in the User Story exist. When designs are approved, the individual User Story status in the cover frame of the user journey is marked “Approved” with a milestone version number. When the entire user story including the text documentation is approved, a “locked version” is created and stored in the team projects and the “in-progress” design file version number is updated.
+
 ## Back-end
 
 - Create a list of needed API/Lambda functions based on each of the user journeys steps, using the text-based specs as a guideline
