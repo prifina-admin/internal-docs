@@ -1,64 +1,64 @@
-# Component Development 
+# Component Development
 
-Our ReactJS components are developed using a styled-components approach (preferably React functions based components). In line with documentation driven development  and quality code principles, deliverables must also include related documentation, built with the following workflow described here.
+Our ReactJS components are developed using a styled-components approach (preferably React functions based components). In line with documentation driven development and quality code principles, deliverables must also include related documentation, built with the following workflow described here.
 
 ## General Workflow
 
 ### 1. Identify Needed ReactJS Components
 
-Identify ReactJS components that need to be created from Figma UI design files and list each identified component as a ‘GitHub Issue’ in the GitHub [prifina/app-desktop](https://github.com/prifina/app-desktop/issues) or [prifina/app-mobile](https://github.com/prifina/app-mobile/issues) repositories. 
+Identify ReactJS components that need to be created from Figma UI design files and list each identified component as a ‘GitHub Issue’ in the GitHub [prifina/app-desktop](https://github.com/prifina/app-desktop/issues) or [prifina/app-mobile](https://github.com/prifina/app-mobile/issues) repositories.
 
 - This ensures all components from the designs are correctly identified for development.
 
-### 2. Document Components 
+### 2. Document Components
 
 Document the identified components to be developed into the [Storybook Drafts -Google doc](https://docs.google.com/document/d/1LYFpVsRkH5VCHaCqYnYTzr0swspxngJaQov4qQTbYOg/).
 
 **Helpful resources:**
 
 [identifying all subcomponents](https://docs.google.com/document/d/1tOnoPfJnDeApFf7o3Ft9JqnkJ5XQoZX_pREF4tDKHZ0) within structured ‘element components’,  
-[documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components. 
+[documenting details](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x) of new sub components.
 
-As part documenting and *before any component development*, check what existing reusable components are available to use as 
-your ‘building blocks’ components: [Blend GitHub](https://github.com/prifina/blend-ui) - Prifina [Desktop App GitHub](https://github.com/prifina/app-desktop) 
+As part documenting and _before any component development_, check what existing reusable components are available to use as
+your ‘building blocks’ components: [Blend GitHub](https://github.com/prifina/blend-ui) - Prifina [Desktop App GitHub](https://github.com/prifina/app-desktop)
 (NOTE: Always use the latest alpha-package version, and not the normal 'latest' version labeled by GitHub) and Storybook.
 
-- to make sure all needed details needed to develop the component exist and are confirmed 
+- to make sure all needed details needed to develop the component exist and are confirmed
 
-In your [Storybook drafts documentation](https://docs.google.com/document/d/1LYFpVsRkH5VCHaCqYnYTzr0swspxngJaQov4qQTbYOg/edit), mark 
-those “building block” -components already available with a link to the available resources and identify those that need to be 
-developed as part of your bigger component. Those that need to be developed, should be also listed as GitHub Issue cards and 
-documented in more detail ([see examples here](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x)). 
+In your [Storybook drafts documentation](https://docs.google.com/document/d/1LYFpVsRkH5VCHaCqYnYTzr0swspxngJaQov4qQTbYOg/edit), mark
+those “building block” -components already available with a link to the available resources and identify those that need to be
+developed as part of your bigger component. Those that need to be developed, should be also listed as GitHub Issue cards and
+documented in more detail ([see examples here](https://docs.google.com/document/d/1uzejSPLOeernm37qCjD2fZCVfdZhwb41g0dLuj4H7Pc/edit#heading=h.a1io7k8my0x)).
 
 - this is to make sure existing components are used
-- new components are only built with  existing components when available, and 
+- new components are only built with existing components when available, and
 - that completely new components are only created where they don't already exist
 
-### 3. Update ‘GitHub Issue cards’ 
+### 3. Update ‘GitHub Issue cards’
 
-Update GitHub issues from each component using this [template format](https://github.com/prifina/app-desktop/issues/4) and linking 
-with component related documentation details in your Storybook Draft / Figma / User Story doc / etc. 
-(see also list of [all existing user stories](https://docs.google.com/spreadsheets/d/1E8XyNz5RXIZL3xlbmVwIy8VpQuJbd1tWXlLxQbFom2s/edit#gid=822828220)). 
-  
+Update GitHub issues from each component using this [template format](https://github.com/prifina/app-desktop/issues/new/choose) and linking
+with component related documentation details in your Storybook Draft / Figma / User Story doc / etc.
+(see also list of [all existing user stories](https://docs.google.com/spreadsheets/d/1E8XyNz5RXIZL3xlbmVwIy8VpQuJbd1tWXlLxQbFom2s/edit#gid=822828220)).
+
 - this is to make sure that all needed details are easily available when components are reviewed
 - for approval from different aspects; UX logic, code quality, measures, etc.
 
-### 4. Plan your work before you code. 
+### 4. Plan your work before you code.
 
-In the issue cards, describe your plan, how the ReactJS component, using styled-components approach, will be developed (function based ReactJS components are preferable). 
+In the issue cards, describe your plan, how the ReactJS component, using styled-components approach, will be developed (function based ReactJS components are preferable).
 
 Use existing [Blend components](https://github.com/prifina/blend-ui) as your ‘building blocks’ components when available (NOTE: Always use the latest alpha-package version, and not the normal 'latest' version labeled by GitHub).
-  
+
 - to get your plan checked and validated, before potentially wasting time on creating anything redundant
 - this is important particularly on your first component, further components follow the same approach
 
-### 5. Develop Based on Approved Plan 
+### 5. Develop Based on Approved Plan
 
-Develop each component one by one, based on your own documentation and plan/approach that has been approved. Our normal development workflow requires forking and then creating a ‘pull request’ against the alpha branch. 
-  
+Develop each component one by one, based on your own documentation and plan/approach that has been approved. Our normal development workflow requires forking and then creating a ‘pull request’ against the alpha branch.
+
 - ask for feedback for your code using GitHub comments feature in the Issue card
 
-### 6. Test and Verify Components 
+### 6. Test and Verify Components
 
 Test components by creating a [Jest test script](https://jestjs.io/) for each component and testing your component using [Storybook](https://storybook.js.org/) (v.6.x)
 
@@ -68,29 +68,31 @@ Deliver the final component (using GitHub pull request) and any related supporti
 
 ## Additional Guidelines
 
-1. Comments are exchange with our UI Designer (directly in relevant Figma files and Slack) and with our Senior 
-Developer (in GitHub issues cards and Slack) as needed
+1. Comments are exchange with our UI Designer (directly in relevant Figma files and Slack) and with our Senior
+   Developer (in GitHub issues cards and Slack) as needed
 2. If a component requires api and/or AWS access then it also requires AWS Amplify module use.
 3. When naming components, try to avoid too short and general logic like; **Email.js**, but use longer names, **like ResetUsingEmail.js**
-4. The components we are developing are part of a larger app, so each should fit with the overall structure and use only existing node modules. 
-4. In case for a good reason, adding new modules is possible, but as a general rule package.json changes are not allowed.
-5. Make sure to have a look at the Alpha branch to see how those components, that are marked existing, look.
-6. There is a [Storybook setup ready](http://alpha.app-storybook.prifina.com/), so it is the best way to see those.
-7. We are using our own design system (blend-ui), which is heavily styled-components focused. If you are familiar with Material-ui, it has some 
-similarities as they have started to use the same.
-8. Our normal development workflow requires forking and then creating a ‘pull request’ against the alpha branch. 
-9. We also require a working Storybook story for separate visual checking (not required to integrate with App routing) and a Jest testing script for automated testing. 
-10. Currently there are no existing Jest tests, but the basic rendering test using "react-test-renderer" is very simple.
-11. If development has any new reusable functions (not components), then it is necessary to include ‘Jest test’ for testing.
+4. The components we are developing are part of a larger app, so each should fit with the overall structure and use only existing node modules.
+5. In case for a good reason, adding new modules is possible, but as a general rule package.json changes are not allowed.
+6. Make sure to have a look at the Alpha branch to see how those components, that are marked existing, look.
+7. There is a [Storybook setup ready](http://alpha.app-storybook.prifina.com/), so it is the best way to see those.
+8. We are using our own design system (blend-ui), which is heavily styled-components focused. If you are familiar with Material-ui, it has some
+   similarities as they have started to use the same.
+9. Our normal development workflow requires forking and then creating a ‘pull request’ against the alpha branch.
+10. We also require a working Storybook story for separate visual checking (not required to integrate with App routing) and a Jest testing script for automated testing.
+11. Currently there are no existing Jest tests, but the basic rendering test using "react-test-renderer" is very simple.
+12. If development has any new reusable functions (not components), then it is necessary to include ‘Jest test’ for testing.
 
 ### Related key Figma files
+
 [Production Version Development](https://www.figma.com/file/fS9gcgUb0KShgtZ3XIYQqY/Production-Version-Software-Development?node-id=869%3A0)<br>
 [Prifina Design System](https://www.figma.com/file/5cw0xlj4KOFFanIn564pds/Prifina-Design-System?node-id=45%3A0)
 
 ## Other Useful Libraries and Resources:
 
 ### AWS Amplify
-AWS Amplify consists of a development framework and a web hosting service that provides a convenient way to build mobile and web applications on AWS. 
+
+AWS Amplify consists of a development framework and a web hosting service that provides a convenient way to build mobile and web applications on AWS.
 The Amplify Framework utilizes AWS Cloud Services to offer capabilities including offline data, authentication, analytics, push notifications and bots at high scale.
 
 Helpful Links:<br>
@@ -101,8 +103,9 @@ Helpful Links:<br>
 [External Documentation 2 about Amplify.](https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/js)
 
 ### State
-One of the more important learnings from the project are the differences between stateless and stateful components, how 
-to use them and what files should have state and what files should not. Another thing that ties into this is the use of 
+
+One of the more important learnings from the project are the differences between stateless and stateful components, how
+to use them and what files should have state and what files should not. Another thing that ties into this is the use of
 React hooks, which is the way that we dealt with the state in this project.
 
 Helpful Links:<br>
@@ -111,11 +114,15 @@ Helpful Links:<br>
 [More about the useState React Hook](https://reactjs.org/docs/hooks-state.html)
 
 ### ESLint
-This one isn’t too impactful in terms of the actual thought being put into how the code works, but none of us have used this when we 
+
+This one isn’t too impactful in terms of the actual thought being put into how the code works, but none of us have used this when we
 started the project, and it turned out to be a wonderful tool to help make things more readable and uniform so that the code is a bit easier to access.<br>
 
 Helpful Links:<br>
 [Getting Started Guide](https://eslint.org/docs/user-guide/getting-started)
 
-**[Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/component-development/) / [Guidelines](http://internal.prifina.com/contribute/)**
+## Prifina SDK
 
+Checkout Prifina SDK containing useful code examples of using Amplify and React to develop Prifina's first third part application: [Prifina React-SDK](https://github.com/prifina/utils/tree/master/react-sdk)
+
+**[Improve This Doc?](https://github.com/prifina-admin/internal-docs/edit/master/component-development/) / [Guidelines](http://internal.prifina.com/contribute/)**
